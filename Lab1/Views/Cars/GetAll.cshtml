@@ -1,0 +1,59 @@
+﻿@model List<Car>;
+
+@{
+    var cars = Model;
+    void RenderTableBody(){
+        @for (var i = 0; i < cars.Count; i++)
+        {
+            <tr>
+                <td>@($"{cars[i].Model} From {cars[i].Manufacturer}")</td>
+                <td>@(DateTime.Now.Year - cars[i].FirstUseDate.Year) Years</td>
+                <td>@Html.Raw(cars[i].HtmlDescription)</td>
+                <td>
+                    <figure class="figure">
+                        <img src="cars[i].Image" class="figure-img img-fluid rounded" alt="@($"{cars[i].Model} From {cars[i].Manufacturer}")" />
+                        <figcaption class="figure-caption">@($"{cars[i].Model} From {cars[i].Manufacturer}")</figcaption>
+                    </figure>
+                </td>
+                <td><a href="/cars/getdetail?img=@cars[i].Image&status=table" class="text-decoration-none text-white btn btn-primary">Details</a></td>
+            </tr>
+        }
+    }
+    void RenderList()
+    {
+        @for (var i = 0; i < cars.Count; i++)
+        {
+            <li>@($"{cars[i].Model} From {cars[i].Manufacturer}")</li>
+            <li>@(DateTime.Now.Year - cars[i].FirstUseDate.Year) Years</li>
+            <li>@Html.Raw(cars[i].HtmlDescription)</li>
+            <li>
+                <figure class="figure">
+                    <img src="cars[i].Image" class="figure-img img-fluid rounded" alt="@($"{cars[i].Model} From {cars[i].Manufacturer}")" />
+                    <figcaption class="figure-caption">@($"{cars[i].Model} From {cars[i].Manufacturer}")</figcaption>
+                </figure>
+            </li>
+            <li>
+                <a href="/cars/getdetail?img=@cars[i].Image&status=list" class="text-decoration-none text-white btn btn-primary">Details</a>
+            </li>
+            <hr />
+        }
+    }
+}
+<ul>
+    @{
+        RenderList();
+    }
+</ul>
+
+<table class="w-100">
+    <tr>
+        <th>Name</th>
+        <th>Usage Duration</th>
+        <th>Description</th>
+        <th>Image</th>
+        <th>Action</th>
+    </tr>
+    @{
+        RenderTableBody();
+    }
+</table>
