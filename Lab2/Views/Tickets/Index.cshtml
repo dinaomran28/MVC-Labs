@@ -11,6 +11,14 @@
                 <p>IsClosed: @ticket.IsClosed</p>
                 <p>Severity: @ticket.Severity</p>
                 <p>Description: @ticket.Description</p>
+                <p>Department: @ticket.Department?.Name</p>
+                <p>Developer Names:</p>
+                @foreach(var developer in @ticket.Developers)
+                {
+                    <p> -- @($"{developer.FirstName} {developer.LastName}")</p>
+                }
+                <a asp-action="Edit" asp-route-id="@ticket.Id" class="btn btn-warning me-3 text-white">Edit</a>
+                <a asp-action="Delete" asp-route-id="@ticket.Id" class="btn btn-danger">Delete</a>
             </div>
         </div>
     }

@@ -1,0 +1,14 @@
+﻿@model Lab2.Models.Domain.Ticket
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+
+<form asp-action="Delete">
+    <input type="submit" value="Delete" class="btn btn-danger m-3" />
+    <a asp-action="Index" class="btn btn-warning m-3">Cancel</a>
+ </form>
