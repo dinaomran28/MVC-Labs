@@ -81,6 +81,7 @@ namespace Lab2.Controllers
                 IsClosed = ticketToEdit.IsClosed,
                 Description = ticketToEdit.Description,
                 Severity = ticketToEdit.Severity,
+                //TODO: Why is this line commented
                 //DepartmentId = ticketToEdit.Department.Id,
                 DevelopersIds = ticketToEdit.Developers.Select(t => t.Id).ToList(),
             };
@@ -96,6 +97,7 @@ namespace Lab2.Controllers
             var ticketToEdit = _tickets.First(t => t.Id == ticketVM.Id);
             ticketToEdit.Severity = ticketVM.Severity;
             ticketToEdit.IsClosed = ticketVM.IsClosed;
+            //TODO: You forgot Description, that's normal, we will know hot overcome this issue
             ticketToEdit.Department = Department.GetDepartments().First(d => d.Id == ticketVM.DepartmentId);
             ticketToEdit.Developers = selectedDevelopers;
 
