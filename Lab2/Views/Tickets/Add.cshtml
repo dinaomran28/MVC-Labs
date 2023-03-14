@@ -1,0 +1,19 @@
+﻿@model AddTicketVM
+
+<form asp-action="Add" method="post">
+
+    <div class="form-group m-2">
+        <input class="form-check-input" asp-for="IsClosed" />
+        <label asp-for="IsClosed"></label>
+    </div>
+    <div class="form-group m-2">
+        <label asp-for="Severity"></label>
+        <select asp-for="Severity" asp-items="Html.GetEnumSelectList<Severities>()"></select>
+    </div>
+    <div class="form-group m-2">
+        <label asp-for="Description"></label>
+        <input class="form-control" asp-for="Description" />
+    </div>
+
+    <button class="btn btn-secondary m-2"> Submit </button>
+</form>

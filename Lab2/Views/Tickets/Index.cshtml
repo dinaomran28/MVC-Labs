@@ -1,0 +1,17 @@
+﻿@model List<Ticket>;
+
+<a asp-action="Add" class="btn btn-primary ms-3 mb-3">Add Ticket</a>
+
+<div class="container">
+    @foreach(var ticket in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-body">
+                <p>Creation Date: @ticket.CreatedDate</p>
+                <p>IsClosed: @ticket.IsClosed</p>
+                <p>Severity: @ticket.Severity</p>
+                <p>Description: @ticket.Description</p>
+            </div>
+        </div>
+    }
+</div>
