@@ -1,10 +1,13 @@
 ﻿using Lab2.Models.Domain;
 using System.ComponentModel.DataAnnotations;
+using System.Xml.Linq;
 
 namespace Lab2.Models.View
 {
-    public record AddTicketVM
+    public record EditTicketVM
     {
+        public Guid Id { get; set; }
+
         [Display(Name = "Is Closed")]
         public bool IsClosed { get; init; }
         public Severities Severity { get; init; }
@@ -15,5 +18,5 @@ namespace Lab2.Models.View
 
         [Display(Name = "Developer")]
         public ICollection<Guid> DevelopersIds { get; init; } = null!;
-    };
+    }
 }
