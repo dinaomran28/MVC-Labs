@@ -1,0 +1,15 @@
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\bin\Debug\net7.0\IssuesSystem.BL.deps.json
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\bin\Debug\net7.0\IssuesSystem.BL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\bin\Debug\net7.0\IssuesSystem.BL.pdb
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\bin\Debug\net7.0\IssuesSystem.DAL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\bin\Debug\net7.0\IssuesSystem.DAL.pdb
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.csproj.AssemblyReference.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.AssemblyInfoInputs.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.AssemblyInfo.cs
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.csproj.CopyComplete
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\refint\IssuesSystem.BL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\IssuesSystem.BL.pdb
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.BL\obj\Debug\net7.0\ref\IssuesSystem.BL.dll

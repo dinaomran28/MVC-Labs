@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IssuesSystem.MVC.props" />
+</Project>

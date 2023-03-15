@@ -1,0 +1,14 @@
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\bin\Debug\net7.0\IssuesSystem.DAL.deps.json
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\bin\Debug\net7.0\IssuesSystem.DAL.runtimeconfig.json
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\bin\Debug\net7.0\IssuesSystem.DAL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\bin\Debug\net7.0\IssuesSystem.DAL.pdb
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.csproj.AssemblyReference.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.AssemblyInfoInputs.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.AssemblyInfo.cs
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\refint\IssuesSystem.DAL.dll
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.pdb
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\IssuesSystem.DAL.genruntimeconfig.cache
+E:\ITI\MVC\Lab4 (Issues System)\IssuesSystem.MVC\IssuesSystem.DAL\obj\Debug\net7.0\ref\IssuesSystem.DAL.dll
