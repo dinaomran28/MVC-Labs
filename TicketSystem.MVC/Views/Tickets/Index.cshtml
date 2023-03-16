@@ -1,0 +1,16 @@
+﻿@model List<TicketReadVM>;
+
+<div class="container">
+    @foreach (var ticket in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-body">
+                <p>Id: @ticket.Id</p>
+                <p>Severity: @ticket.Severity</p>
+                <p>Description: @ticket.Description</p>
+                <a asp-action="Edit" asp-route-id="@ticket.Id" class="btn btn-warning me-3 text-white">Edit</a>
+                <a asp-action="Details" asp-route-id="@ticket.Id" class="btn btn-danger me-3 text-white">Details</a>
+            </div>
+        </div>
+    }
+</div>

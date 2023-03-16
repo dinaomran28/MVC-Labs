@@ -1,0 +1,24 @@
+﻿@*@model TicketDetailsVM*@
+
+@{
+    var ticket = Model.ticketVM;
+    var rows = Model.rows;
+}
+
+<p class="ms-3">Ticket Details</p>
+
+@if(@rows != 0){
+    <h1 class="ms-3">@rows Rows Affected</h1>
+}
+
+<div class="container">
+    <div class="card mb-4">
+        <div class="card-body">
+            <p>Id: @ticket.Id</p>
+            <p>Description: @ticket.Description</p>
+            <p>Severity: @ticket.Severity</p>
+            <p>Number of Developers: @ticket.DevelopersCount</p>
+            <p>Department Name: @ticket.DepartmentName</p>
+        </div>
+    </div>
+</div>

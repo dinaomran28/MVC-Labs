@@ -1,0 +1,14 @@
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\bin\Debug\net7.0\TicketSystem.DAL.deps.json
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\bin\Debug\net7.0\TicketSystem.DAL.runtimeconfig.json
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\bin\Debug\net7.0\TicketSystem.DAL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\bin\Debug\net7.0\TicketSystem.DAL.pdb
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.csproj.AssemblyReference.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.AssemblyInfoInputs.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.AssemblyInfo.cs
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\refint\TicketSystem.DAL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.pdb
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\TicketSystem.DAL.genruntimeconfig.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.DAL\obj\Debug\net7.0\ref\TicketSystem.DAL.dll

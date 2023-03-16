@@ -1,0 +1,15 @@
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\bin\Debug\net7.0\TicketSystem.BL.deps.json
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\bin\Debug\net7.0\TicketSystem.BL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\bin\Debug\net7.0\TicketSystem.BL.pdb
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\bin\Debug\net7.0\TicketSystem.DAL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\bin\Debug\net7.0\TicketSystem.DAL.pdb
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.csproj.AssemblyReference.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.AssemblyInfoInputs.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.AssemblyInfo.cs
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.csproj.CopyComplete
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\refint\TicketSystem.BL.dll
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\TicketSystem.BL.pdb
+E:\ITI\MVC\Lab5 (Ticket System)\TicketSystem.MVC\TicketSystem.BL\obj\Debug\net7.0\ref\TicketSystem.BL.dll
